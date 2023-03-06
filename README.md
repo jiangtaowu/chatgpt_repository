@@ -10,6 +10,10 @@
 
 3. https://chat.ninvfeng.xyz/
 
+4. https://chatforai.com/
+
+4. https://talk.xiu.ee/
+
 4. https://chat.tgbot.co/chat
 
 5. https://chat.51buygpt.com/
@@ -25,5 +29,7 @@
 10. https://freechatgpt.lol/
 
 
+### 其他类型
 
-
+1. https://ai-toolbox.codefuture.top/
+2. 
