@@ -5,13 +5,18 @@
 ## 站点列表
 
 1. [⭐] https://freegpt.cc 
+
 2. [⭐] https://ai.ls
+
 3. https://desk.im
+
 4. https://chat.zecoba.cn/
+
 5. https://chatgpt.ddiu.io/
-7. https://ai117.com/
-8. 
-6. https://freechatgpt.lol/
+
+6. https://ai117.com/
+
+7. https://freechatgpt.lol/
 
 
 
