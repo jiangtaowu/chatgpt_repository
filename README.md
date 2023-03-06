@@ -8,15 +8,21 @@
 
 2. [⭐] https://ai.ls
 
-3. https://desk.im
+3. https://chat.ninvfeng.xyz/
 
-4. https://chat.zecoba.cn/
+4. https://chat.tgbot.co/chat
 
-5. https://chatgpt.ddiu.io/
+5. https://chat.51buygpt.com/
 
-6. https://ai117.com/
+6. https://desk.im
 
-7. https://freechatgpt.lol/
+7. https://chat.zecoba.cn/
+
+8. https://chatgpt.ddiu.io/
+
+9. https://ai117.com/
+
+10. https://freechatgpt.lol/
 
 
 
