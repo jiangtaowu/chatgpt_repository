@@ -10,25 +10,27 @@
 
 2. [⭐] https://ai.ls
 
-3. https://chat.ninvfeng.xyz/
+3. https://fastgpt.app/
 
-4. https://chatforai.com/
+4. https://chat.ninvfeng.xyz/
 
-4. https://talk.xiu.ee/
+5. https://chatforai.com/
 
-4. https://chat.tgbot.co/chat
+6. https://talk.xiu.ee/
 
-5. https://chat.51buygpt.com/
+7. https://chat.tgbot.co/chat
 
-6. https://desk.im
+8. https://chat.51buygpt.com/
 
-7. https://chat.zecoba.cn/
+9. https://desk.im
 
-8. https://chatgpt.ddiu.io/
+10. https://chat.zecoba.cn/
 
-9. https://ai117.com/
+11. https://chatgpt.ddiu.io/
 
-10. https://freechatgpt.lol/
+12. https://ai117.com/
+
+13. https://freechatgpt.lol/
 
 
 ### 其他类型
