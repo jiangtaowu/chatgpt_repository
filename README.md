@@ -10,39 +10,41 @@
 
 2. [⭐] https://ai.ls
 
-3. https://94gpt.com/
+3. https://chat.alpaca-bi.com/
 
-4. https://askai.ws/
+4. https://94gpt.com/
 
-5. https://fastgpt.app/
+5. https://askai.ws/
 
-6. https://chat.ninvfeng.xyz/
+6. https://fastgpt.app/
 
-7. https://chatforai.com/
+7. https://chat.ninvfeng.xyz/
 
-8. https://trychatgp.com/
+8. https://chatforai.com/
 
-9. https://talk.xiu.ee/
+9. https://trychatgp.com/
 
-10. https://chat.geekr.dev/
+10. https://talk.xiu.ee/
 
-11. https://chat.tgbot.co/chat
+11. https://chat.geekr.dev/
 
-12. https://chat.51buygpt.com/
+12. https://chat.tgbot.co/chat
 
-13. https://desk.im
+13. https://chat.51buygpt.com/
 
-14. https://chat.zecoba.cn/
+14. https://desk.im
 
-15. https://chatgpt.ddiu.io/
+15. https://chat.zecoba.cn/
 
-16. https://ai117.com/
+16. https://chatgpt.ddiu.io/
 
-17. http://chat.livepo.top/
+17. https://ai117.com/
 
-18. https://freechatgpt.lol/
+18. http://chat.livepo.top/
 
-19. https://chatgpt.ddiu.me/
+19. https://freechatgpt.lol/
+
+20. https://chatgpt.ddiu.me/
 
 ### 其他类型
 >综合型，不限于聊天
