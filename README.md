@@ -39,6 +39,6 @@
 16. https://freechatgpt.lol/
 
 ### 其他类型
-
+>综合型，不限于聊天
 1. https://ai-toolbox.codefuture.top/
-2. 
+2. [需登录] https://chat.paoying.net/ 
