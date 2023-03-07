@@ -24,21 +24,23 @@
 
 9. https://talk.xiu.ee/
 
-10. https://chat.tgbot.co/chat
+10. https://chat.geekr.dev/
 
-11. https://chat.51buygpt.com/
+11. https://chat.tgbot.co/chat
 
-12. https://desk.im
+12. https://chat.51buygpt.com/
 
-13. https://chat.zecoba.cn/
+13. https://desk.im
 
-14. https://chatgpt.ddiu.io/
+14. https://chat.zecoba.cn/
 
-15. https://ai117.com/
+15. https://chatgpt.ddiu.io/
 
-16. http://chat.livepo.top/
+16. https://ai117.com/
 
-17. https://freechatgpt.lol/
+17. http://chat.livepo.top/
+
+18. https://freechatgpt.lol/
 
 ### 其他类型
 >综合型，不限于聊天
