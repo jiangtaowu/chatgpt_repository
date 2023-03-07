@@ -20,23 +20,25 @@
 
 7. https://chatforai.com/
 
-8. https://talk.xiu.ee/
+8. https://trychatgp.com/
 
-9. https://chat.tgbot.co/chat
+9. https://talk.xiu.ee/
 
-10. https://chat.51buygpt.com/
+10. https://chat.tgbot.co/chat
 
-11. https://desk.im
+11. https://chat.51buygpt.com/
 
-12. https://chat.zecoba.cn/
+12. https://desk.im
 
-13. https://chatgpt.ddiu.io/
+13. https://chat.zecoba.cn/
 
-14. https://ai117.com/
+14. https://chatgpt.ddiu.io/
 
-15. http://chat.livepo.top/
+15. https://ai117.com/
 
-16. https://freechatgpt.lol/
+16. http://chat.livepo.top/
+
+17. https://freechatgpt.lol/
 
 ### 其他类型
 >综合型，不限于聊天
