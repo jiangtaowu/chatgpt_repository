@@ -14,27 +14,29 @@
 
 4. https://askai.ws/
 
-4. https://fastgpt.app/
+5. https://fastgpt.app/
 
-5. https://chat.ninvfeng.xyz/
+6. https://chat.ninvfeng.xyz/
 
-6. https://chatforai.com/
+7. https://chatforai.com/
 
-7. https://talk.xiu.ee/
+8. https://talk.xiu.ee/
 
-8. https://chat.tgbot.co/chat
+9. https://chat.tgbot.co/chat
 
-9. https://chat.51buygpt.com/
+10. https://chat.51buygpt.com/
 
-10. https://desk.im
+11. https://desk.im
 
-11. https://chat.zecoba.cn/
+12. https://chat.zecoba.cn/
 
-12. https://chatgpt.ddiu.io/
+13. https://chatgpt.ddiu.io/
 
-13. https://ai117.com/
+14. https://ai117.com/
 
-14. https://freechatgpt.lol/
+15. http://chat.livepo.top/
+
+16. https://freechatgpt.lol/
 
 ### 其他类型
 
