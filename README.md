@@ -48,14 +48,17 @@
 
 21. https://chatgpt.ddiu.me/
 
+### 需登录
+- https://chat.paoying.net/
+
+- https://chat.eaten.fun/
+
 ### 其他类型
 
 > 综合型或其变体，不限于聊天
-
 1. https://ai-toolbox.codefuture.top/
-2. [需登录] https://chat.paoying.net/
-3. [正经的虚拟女友] https://chilloutai.com/
-4. [哈利波特文字游戏]https://harry-potter.openai-lab.com/
+2. [正经的虚拟女友] https://chilloutai.com/
+3. [哈利波特文字游戏]https://harry-potter.openai-lab.com/
 
 ## 欢迎补充
 
