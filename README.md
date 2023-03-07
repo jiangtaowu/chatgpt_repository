@@ -42,6 +42,8 @@
 
 18. https://freechatgpt.lol/
 
+19. https://chatgpt.ddiu.me/
+
 ### 其他类型
 >综合型，不限于聊天
 1. https://ai-toolbox.codefuture.top/
