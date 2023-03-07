@@ -10,8 +10,6 @@
 
 2. [⭐] https://ai.ls
 
-3. https://freegpt.cc/
-
 4. https://chat.alpaca-bi.com/
 
 5. https://94gpt.com/
