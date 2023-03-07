@@ -10,9 +10,11 @@
 
 2. [⭐] https://ai.ls
 
-4. https://chat.alpaca-bi.com/
+3. https://chat.alpaca-bi.com/
 
-5. https://94gpt.com/
+4. https://94gpt.com/
+
+5. https://chat.yqcloud.top/
 
 6. https://askai.ws/
 
@@ -47,11 +49,12 @@
 21. https://chatgpt.ddiu.me/
 
 ### 其他类型
->综合型，不限于聊天
+
+> 综合型，不限于聊天
+
 1. https://ai-toolbox.codefuture.top/
-2. [需登录] https://chat.paoying.net/ 
-
-
+2. [需登录] https://chat.paoying.net/
 
 ## 欢迎补充
+
 提交issues分享你发现的新的站点，或报告失效站点 
