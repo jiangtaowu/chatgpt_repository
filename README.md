@@ -55,6 +55,7 @@
 1. https://ai-toolbox.codefuture.top/
 2. [需登录] https://chat.paoying.net/
 3. [正经的虚拟女友] https://chilloutai.com/
+4. [哈利波特文字游戏]https://harry-potter.openai-lab.com/
 
 ## 欢迎补充
 
